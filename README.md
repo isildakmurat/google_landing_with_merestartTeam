@@ -7,7 +7,7 @@
 - Here is the page we created as a group: https://isildakmurat.github.io/google_landing_with_merestartTeam/
 - People working on the project: 
   
-    <a href="https://github.com/eemresoysal" target="_blank" rel="noopener noreferrer">Emre Soysal</a>
-    <a href="https://github.com/zaferberkay" target="_blank" rel="noopener noreferrer">Zafer Berkay Çalışkan</a>
-    <a href="https://github.com/hilaldedek" target="_blank" rel="noopener noreferrer">Hilal Dedek</a>
-    <a href="https://github.com/isildakmurat" target="_blank" rel="noopener noreferrer">Murat Işıldak</a>
+ 1 - <a href="https://github.com/eemresoysal" target="_blank" rel="noopener noreferrer">Emre Soysal</a>
+ 2 - <a href="https://github.com/hilaldedek" target="_blank" rel="noopener noreferrer">Hilal Dedek</a>
+ 3 - <a href="https://github.com/isildakmurat" target="_blank" rel="noopener noreferrer">Murat Işıldak</a>
+ 4 - <a href="https://github.com/zaferberkay" target="_blank" rel="noopener noreferrer">Zafer Berkay Çalışkan</a>
