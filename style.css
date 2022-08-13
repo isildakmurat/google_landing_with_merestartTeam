@@ -1,0 +1,21 @@
+footer{
+    width: 100%;
+    /* border: 2px solid red; */
+    clear: both;
+}
+.leftfootlinks{
+/* border: 2px solid red ; */
+text-decoration: none;
+color: #5f6368;
+text-align: left;
+padding: 5px;
+}
+.rightfootlinks{
+    text-decoration: none;
+    color: #5f6368;
+    text-align: right;
+    padding: 5px;
+}
+.linkdiv{
+    /* border: 2px solid blue; */
+}
