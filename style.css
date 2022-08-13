@@ -1,3 +1,49 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+}
+.box a{
+    color: black;
+    text-decoration: none;
+    padding: 20px 10px ;
+
+}
+.box a:hover{
+    text-decoration: underline;
+}
+.box{
+    /* border: 1px solid red; */
+    display: flex;
+}
+.box1{
+    width: 50%
+}
+.box2{
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.signin{
+    background-color: #4285f4;
+    border-radius: 3px;
+    width: 15%;
+    text-align: center;
+}
+.signin:hover{
+    text-decoration: none;
+}
+.image{
+background: linear-gradient(rgba(210, 215, 211, 0.5));
+}
+.image:hover{
+}
+.box2 span{
+    height: 20%;
+=======
 
 body{
 	font-family: Arial, Helvetica, sans-serif;
@@ -66,5 +112,4 @@ body{
 	outline: none;
 	margin-top: 3px;
 	margin-right: 90px;
-	
 }
