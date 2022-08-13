@@ -113,3 +113,32 @@ body{
 	margin-top: 3px;
 	margin-right: 90px;
 }
+footer{
+    width: 100%;
+}
+.leftfootlinks{
+text-decoration: none;
+color: #5f6368;
+text-align: left;
+padding: 5px;
+}
+.rightfootlinks{
+    text-decoration: none;
+    color: #5f6368;
+    text-align: right;
+    padding: 5px;
+}
+#country{
+    background-color: #f2f2f2;
+    padding: 0.7rem;
+    color: #5f6368;
+    border-bottom: 1px solid white;
+}
+.linkdiv{
+    display: flex;
+    justify-content: space-between;  
+    background-color: #f2f2f2;
+    padding: 0.7rem;
+
+    
+}
