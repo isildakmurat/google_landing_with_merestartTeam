@@ -18,5 +18,8 @@
 <a href="https://github.com/zaferberkay" target="_blank" rel="noopener noreferrer">Zafer Berkay Çalışkan</a> <br>
 <a href="https://github.com/zehracelk" target="_blank" rel="noopener noreferrer">Zehra Çelik</a> <br>
 
+<hr>
 
-    <img src="./images/sonuc.png" alt="google landing">
+## Ex:
+
+<img src="./images/sonuc.png" alt="google landing">
