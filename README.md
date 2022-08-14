@@ -19,3 +19,4 @@
 <a href="https://github.com/zehracelk" target="_blank" rel="noopener noreferrer">Zehra Çelik</a> <br>
 
 
+    <img src="./images/sonuc.png" alt="google landing">
